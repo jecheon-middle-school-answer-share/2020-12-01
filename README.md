@@ -65,7 +65,7 @@
 |zip-up  |jacket |grand open|grand-opening|
 |open car|convertible|fighting|you can do it|
 ### 참고 자료
-[![Youtube](http://img.youtube.com/vi/8DogPwCUaQY /0.jpg)](https://www.youtube.com/embed/8DogPwCUaQY  "Youtube")
+[![Youtube](http://img.youtube.com/vi/8DogPwCUaQY/0.jpg)](https://www.youtube.com/embed/8DogPwCUaQY  "Youtube")
 
 ## 4교시 - 영어
 ### 바로가기
@@ -87,7 +87,7 @@
 |eye-shopping|③ Window-Shopping|
 |Morning Call|⑩ Wake-up Call|
 ### 참고 자료
-[![Youtube](http://img.youtube.com/vi/ㅁㅁㅁㅁ/0.jpg)](https://www.youtube.com/embed/ㅁㅁㅁㅁ  "Youtube")
+[![Youtube](http://img.youtube.com/vi/glI8uVFy19M/0.jpg)](https://www.youtube.com/embed/glI8uVFy19M  "Youtube")
 
 ## 5교시 - 정보
 ### 바로가기
