@@ -90,17 +90,17 @@
 [![Youtube](http://img.youtube.com/vi/glI8uVFy19M/0.jpg)](https://www.youtube.com/embed/glI8uVFy19M  "Youtube")
 
 ## 5교시 - 정보
-아직 안올라옴 (201201 09:30)
-<!--
 ### 바로가기
+[정보 바로가기](https://rang.edunet.net/class/G000371838/index.do)
 ### 문제
+[구글 폼 바로가기](https://forms.gle/M6wRQmawYP4YpvBX8)
 ### 정답
-### 참고 자료
-```
-구글 아이디:
-334s-20[학번]@cberi.go.kr
-```
--->
+2. 보조장치
+3. 중앙처리장치
+4. 스캐너
+5. 윈도우10
+6. 운영체
+7. 부팅
 
 ## 6교시 - 수학
 ### 바로가기
