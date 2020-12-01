@@ -90,16 +90,27 @@
 [![Youtube](http://img.youtube.com/vi/glI8uVFy19M/0.jpg)](https://www.youtube.com/embed/glI8uVFy19M  "Youtube")
 
 ## 5교시 - 정보
+아직 안올라옴 (201201 09:00)
+<!--
 ### 바로가기
 ### 문제
 ### 정답
 ### 참고 자료
+```
+구글 아이디:
+334s-20[학번]@cberi.go.kr
+```
+-->
 
 ## 6교시 - 수학
 ### 바로가기
+[수학 바로가기](https://rang.edunet.net/class/G000325357/hmwkppList.do?hmwkSeq=718294)
 ### 문제
+[문제 다운로드 (pdf)](https://rang.edunet.net/common/fileDownload.do?type=homework&sequence=483374)
 ### 정답
+
 ### 참고 자료
+[영상 보기](https://play.mbus.tv/17614dc730e735b0)
 
 ## 7교시 - 과학
 ### 바로가기
